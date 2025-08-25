@@ -1,3 +1,7 @@
+# 👨‍🎓 Projeto Acadêmico | Universidade São Judas
+
+Este é o meu primeiro projeto acadêmico desenvolvido em Java, com o objetivo de aplicar conceitos de Orientação a Objetos e arquitetura de software em uma aplicação de console.
+
 # ☕ Sistema de Gerenciamento de Eventos (Core Java)
 
 Este projeto é uma aplicação de console (CLI) desenvolvida em Java puro para o gerenciamento de eventos, focada em boas práticas de arquitetura de software e manutenibilidade.
